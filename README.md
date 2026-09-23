@@ -11,6 +11,6 @@ Python implementation and numerical experiments that accompany my bachelor's the
 
 Install the Python packages that are required by executing
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 and then run the Jupyter Notebook (from top to Botton).
